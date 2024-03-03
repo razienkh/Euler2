@@ -6,7 +6,7 @@ def even(i):
 first=1
 secound=2
 sum=2
-for i in range (2,4*10**7):
+while (first<4*10**6):
   new=first+secound
   first=secound
   secound=new
